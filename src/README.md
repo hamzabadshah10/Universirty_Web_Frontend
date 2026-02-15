@@ -1,8 +1,14 @@
 This folder contains all the project images. Keep the folder structure exactly as is, and open the project in VS Code to run it.
 
-UNIVERISIRTY_WEB_FRONTEND/
+UNIVERSITY_WEB_FRONTEND/
 │
-├── src/               # Folder containing all your images and logos (e.g., logo.png, banner1.png)
-├── index.html         # Your main HTML file containing the website's structure
-├── script.js          # Your JavaScript file for the slider, animations, and EmailJS logic
-└── style.css          # Your main stylesheet for design and responsiveness
+├── src/               # Contains all project images, icons, and logos
+│     ├── logo.png
+│     ├── banner1.png
+│     ├── banner2.png
+│     └── (all other images)
+│
+├── index.html         # Main HTML file (website layout and structure)
+├── style.css          # Main stylesheet (design, UI components, responsiveness)
+└── script.js          # JavaScript file (slider, animations, form logic, EmailJS)
+
