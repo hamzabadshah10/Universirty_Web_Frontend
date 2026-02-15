@@ -2,11 +2,7 @@ This folder contains all the project images. Keep the folder structure exactly a
 
 UNIVERSITY_WEB_FRONTEND/
 │
-│     ├── logo.png
-│     ├── banner1.png
-│     ├── banner2.png
-│     └── (all other images)
-│
+│──src
 ├── index.html         
 ├── style.css          
 └── script.js         
