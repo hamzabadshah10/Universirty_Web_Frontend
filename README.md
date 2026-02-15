@@ -53,7 +53,7 @@ UNIVERSITY_WEB_FRONTEND/
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
-git clone [https://github.com/your-username/paf-iast-landing-page.git](https://github.com/your-username/paf-iast-landing-page.git)
+git clone (https://github.com/hamzabadshah10/Universirty_Web_Frontend.git)
 
 3. Open the project
 Open the folder in your code editor (like VS Code). Use the Live Server extension to launch index.html in your web browser for the best development experience.
