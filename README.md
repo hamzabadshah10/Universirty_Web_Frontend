@@ -47,7 +47,7 @@ UNIVERSITY_WEB_FRONTEND/
 ├── index.html       # Main HTML file containing the layout
 ├── style.css        # Main CSS file for styling and responsiveness
 └── script.js        # JavaScript for slider, animations, and EmailJS
-
+'''
 🚀 Getting Started
 To get a local copy up and running, follow these simple steps:
 
