@@ -53,29 +53,27 @@ UNIVERSITY_WEB_FRONTEND/
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
-Bash
 git clone [https://github.com/your-username/paf-iast-landing-page.git](https://github.com/your-username/paf-iast-landing-page.git)
-2. Open the project
+
+3. Open the project
 Open the folder in your code editor (like VS Code). Use the Live Server extension to launch index.html in your web browser for the best development experience.
 
 3. Configure the Contact Form (EmailJS)
 If you clone this repo and want the contact form to send emails to your own inbox, you must connect your own EmailJS account:
 
-Create a free account at EmailJS.com.
+* Create a free account at EmailJS.com.
+* Add an Email Service and create an Email Template.
+* Open script.js and locate the EmailJS configuration section at the bottom.
+* Replace the existing keys with your own Public Key, Service ID, and Template ID.
 
-Add an Email Service and create an Email Template.
-
-Open script.js and locate the EmailJS configuration section at the bottom.
-
-Replace the existing keys with your own Public Key, Service ID, and Template ID.
 
 👨‍💻 Author
+
 Hamza Badshah
 
-Software Engineering undergraduate at PAF-IAST.
+* Software Engineering undergraduate at PAF-IAST.
+* Passionate about front-end web development, Java, and Python. Currently exploring AI/ML and building practical solutions.
 
-Passionate about front-end web development, Java, and Python. Currently exploring AI/ML and building practical solutions.
 
-LinkedIn: https://www.linkedin.com/in/hamza-badshah-8aa304286/
-
-GitHub: https://github.com/hamzabadshah10
+* LinkedIn: https://www.linkedin.com/in/hamza-badshah-8aa304286/
+* GitHub: https://github.com/hamzabadshah10
