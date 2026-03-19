@@ -1,79 +1,83 @@
-# Universirty_Web_Frontend
-Responsive University Website built with modern HTML, CSS, and JavaScript for a clean and interactive user experience.
+# 🎓 PAF-IAST University Landing Page
 
-# 🎓 PAF-IAST | University Landing Page
+[](https://www.google.com/search?q=https://choosealicense.com/licenses/mit/)
+[](https://www.google.com/search?q=https://developer.mozilla.org/en-US/docs/Web/HTML)
+[](https://www.google.com/search?q=https://developer.mozilla.org/en-US/docs/Web/CSS)
+[](https://www.google.com/search?q=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[](https://www.google.com/search?q=https://www.emailjs.com/)
 
-A modern, fully responsive front-end landing page designed for the **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**. 
+A premium, fully responsive front-end landing page engineered for the **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**. This project prioritizes modern UI/UX principles, featuring seamless animations and a zero-backend contact solution.
 
-This project showcases a clean UI/UX, smooth scroll animations, a custom image slider, and a fully functional contact form that sends real emails without needing a backend server.
+[**View Demo**](https://www.google.com/search?q=%23) | [**Report Bug**](https://www.google.com/search?q=https://github.com/hamzabadshah10/Universirty_Web_Frontend/issues) | [**Request Feature**](https://www.google.com/search?q=https://github.com/hamzabadshah10/Universirty_Web_Frontend/issues)
 
----
+<img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/f70f225d-d79c-48db-bf3c-6f008d9ff0c5" />
 
-## ✨ Key Features
+## 🚀 Key Features
 
-* **Fully Responsive Design:** Adapts flawlessly to mobile phones, tablets, and large desktop screens using CSS Flexbox, CSS Grid, and fluid typography.
-* **Custom Hero Slider:** An automated image carousel with manual navigation arrows and interactive indicator dots.
-* **Sticky Navigation:** A sleek navbar that sticks to the top of the screen and automatically highlights the active section as you scroll.
-* **Smooth Scrolling:** Seamless anchor link navigation across the webpage.
-* **Scroll Reveal Animations:** Elements gracefully fade and slide into view as the user scrolls down the page.
-* **Working Contact Form:** Integrated with **EmailJS** to send user inquiries directly to an email inbox, complete with Regex email format validation and custom success/error popups.
+  * **📱 Ultra-Responsive Design:** Optimized for mobile, tablet, and desktop using **CSS Grid** and **Flexbox** for fluid layouts.
+  * **🎢 Dynamic Hero Slider:** Custom-built automated carousel with manual overrides and interactive pagination.
+  * **⚓ Smart Navigation:** Sticky header with scroll-spy functionality that highlights active sections in real-time.
+  * **✨ Smooth-Reveal Animations:** Elements utilize scroll-triggered entry animations for an engaging storytelling experience.
+  * **📩 Serverless Contact Form:** Fully integrated with **EmailJS** for direct inbox delivery, featuring Regex validation and custom status modals.
 
----
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-* **HTML5:** Semantic structuring of the webpage.
-* **CSS3:** Custom styling, CSS Variables, Flexbox, Grid layouts, and keyframe animations.
-* **JavaScript (Vanilla):** DOM manipulation, slider logic, scroll events, and form handling.
-* **EmailJS:** Third-party API for client-side email delivery.
-* **FontAwesome:** For scalable vector icons.
-* **Google Fonts:** Utilizing 'Montserrat' and 'Poppins' for clean, modern typography.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3 (Variables, Keyframes), Vanilla JavaScript |
+| **Icons & Fonts** | FontAwesome 6, Google Fonts (Montserrat & Poppins) |
+| **API/Services** | EmailJS (Client-side Email Delivery) |
+| **Tools** | VS Code, Git, Live Server |
 
----
 
 ## 📂 Project Structure
 
-This folder contains all the source images used on the website. Please maintain the existing folder structure and open the project in VS Code to run it properly.
-
 ```text
 UNIVERSITY_WEB_FRONTEND/
-│
-├── src/
-│   ├── logo.png
-│   ├── banner1.png
-│   ├── banner2.jpg
-│   └── (all other project images)
-│
-├── index.html       # Main HTML file containing the layout
-├── style.css        # Main CSS file for styling and responsiveness
-└── script.js        # JavaScript for slider, animations, and EmailJS
+├── src/               # Optimized assets (Logos, Banners, Graphics)
+├── index.html         # Semantic structure & SEO-friendly markup
+├── style.css          # Modular CSS with variables & responsive breakpoints
+└── script.js          # Core logic (Slider, Intersection Observer, EmailJS)
 ```
 
-🚀 Getting Started
-To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository
-git clone (https://github.com/hamzabadshah10/Universirty_Web_Frontend.git)
+## ⚙️ Installation & Setup
 
-3. Open the project
-Open the folder in your code editor (like VS Code). Use the Live Server extension to launch index.html in your web browser for the best development experience.
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/hamzabadshah10/Universirty_Web_Frontend.git
+    ```
+2.  **Open the Directory**
+    ```bash
+    cd Universirty_Web_Frontend
+    ```
+3.  **Launch the Project**
+    Open `index.html` in your browser or use the **VS Code Live Server** extension for real-time updates.
 
-3. Configure the Contact Form (EmailJS)
-If you clone this repo and want the contact form to send emails to your own inbox, you must connect your own EmailJS account:
+### 📧 Configuring the Contact Form
 
-* Create a free account at EmailJS.com.
-* Add an Email Service and create an Email Template.
-* Open script.js and locate the EmailJS configuration section at the bottom.
-* Replace the existing keys with your own Public Key, Service ID, and Template ID.
+To receive emails to your own account:
 
-
-👨‍💻 Author
-
-Hamza Badshah
-
-* Software Engineering undergraduate at PAF-IAST.
-* Passionate about front-end web development, Java, and Python. Currently exploring AI/ML and building practical solutions.
+1.  Sign up at [EmailJS.com](https://www.google.com/search?q=https://www.emailjs.com/).
+2.  Create an **Email Service** and a **Template**.
+3.  Update the following constants in `script.js`:
+    ```javascript
+    const PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+    const SERVICE_ID = 'YOUR_SERVICE_ID';
+    const TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
+    ```
 
 
-* LinkedIn: https://www.linkedin.com/in/hamza-badshah-8aa304286/
-* GitHub: https://github.com/hamzabadshah10
+## 👨‍💻 Author
+
+**Hamza Badshah**
+*Software Engineering Undergraduate @ PAF-IAST*
+
+[](https://www.linkedin.com/in/hamza-badshah-8aa304286/)
+[](https://github.com/hamzabadshah10)
+
+
+## 📄 License
+
+This project is licensed under the **MIT License**. Feel free to use it for personal or educational purposes.
