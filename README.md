@@ -10,15 +10,15 @@ A premium, fully responsive front-end landing page engineered for the **Pak-Aust
 
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/View%20Demo-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Report%20Bug-e74c3c?style=for-the-badge&logo=github&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Request%20Feature-f1c40f?style=for-the-badge&logo=gitbook&logoColor=white" alt="JAVASCRIPT" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
 </div>
 
@@ -85,7 +85,7 @@ To receive emails to your own account:
 ## 👨‍💻 Author
 
 **Hamza Badshah**
-*Software Engineering Undergraduate @ PAF-IAST*
+*Undergraduate Software Engineer @ PAF-IAST*
 
 [](https://www.linkedin.com/in/hamza-badshah-8aa304286/)
 [](https://github.com/hamzabadshah10)
