@@ -8,7 +8,19 @@
 
 A premium, fully responsive front-end landing page engineered for the **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**. This project prioritizes modern UI/UX principles, featuring seamless animations and a zero-backend contact solution.
 
-[**View Demo**](https://www.google.com/search?q=%23) | [**Report Bug**](https://www.google.com/search?q=https://github.com/hamzabadshah10/Universirty_Web_Frontend/issues) | [**Request Feature**](https://www.google.com/search?q=https://github.com/hamzabadshah10/Universirty_Web_Frontend/issues)
+<div align="center">
+  <a href="INSERT_YOUR_DEMO_LINK_HERE">
+    <img src="https://img.shields.io/badge/View%20Demo-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Demo" />
+  </a>
+
+  <a href="https://github.com/hamzabadshah10/Universirty_Web_Frontend/issues">
+    <img src="https://img.shields.io/badge/Report%20Bug-e74c3c?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug" />
+  </a>
+
+  <a href="https://github.com/hamzabadshah10/Universirty_Web_Frontend/issues">
+    <img src="https://img.shields.io/badge/Request%20Feature-f1c40f?style=for-the-badge&logo=gitbook&logoColor=white" alt="Request Feature" />
+  </a>
+</div>
 
 <img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/f70f225d-d79c-48db-bf3c-6f008d9ff0c5" />
 
