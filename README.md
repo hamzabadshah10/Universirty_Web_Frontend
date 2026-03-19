@@ -83,7 +83,7 @@ To receive emails to your own account:
 
 ## 👨‍💻 Author
 
-**Hamza Badshah**
+*Hamza Badshah*
 *Undergraduate Software Engineer @ PAF-IAST*
 
 [](https://www.linkedin.com/in/hamza-badshah-8aa304286/)
