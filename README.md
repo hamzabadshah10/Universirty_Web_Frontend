@@ -21,6 +21,7 @@ A premium, fully responsive front-end landing page engineered for the **Pak-Aust
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
 </div>
+---
 
 
 <img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/f70f225d-d79c-48db-bf3c-6f008d9ff0c5" />
