@@ -6,7 +6,7 @@
 [](https://www.google.com/search?q=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [](https://www.google.com/search?q=https://www.emailjs.com/)
 
-A premium, fully responsive front-end landing page engineered for the **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**. This project prioritizes modern UI/UX principles, featuring seamless animations and a zero-backend contact solution.
+A premium, fully responsive front-end landing page design for the **Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST)**. This project prioritizes modern UI/UX principles, featuring seamless animations and a zero-backend contact solution.
 
 <div align="center">
   <a href="#">
